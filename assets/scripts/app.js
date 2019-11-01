@@ -8,16 +8,16 @@ const Portfolio = function() {
 				text: "CSS3",
 				weight: 8
 			}, {
-				text: "Python",
+				text: "VueJS",
 				weight: 14
 			}, {
 				text: "",
 				weight: 3
 			}, {
-				text: "Flask",
+				text: "Express",
 				weight: 7
 			}, {
-				text: "PostgreSQL",
+				text: "MongoDB",
 				weight: 10
 			}, {
 				text: "HTML5",
